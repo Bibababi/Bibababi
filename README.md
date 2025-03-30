@@ -1,8 +1,8 @@
 # Hey bro, welcome to be Here
 
-- 👋 I am @Bibababi
+- 👋 I am Acs
 - 👀 I’m interested in physics and software programing
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently studying in JiLin university
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
